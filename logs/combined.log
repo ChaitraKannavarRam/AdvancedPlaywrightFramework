@@ -1,0 +1,6 @@
+2026-10-31 20:45:22 [info] [e2e-checkout] Step 1: logging in as standard_user
+2026-10-31 20:45:22 [info] [LoginPage] Open login page
+2026-10-31 20:45:23 [info] [LoginPage] loginAs standard_user
+2026-10-31 20:47:19 [info] [e2e-checkout] Step 1: logging in as standard_user
+2026-10-31 20:47:19 [info] [LoginPage] Open login page
+2026-10-31 20:47:19 [info] [LoginPage] loginAs standard_user
